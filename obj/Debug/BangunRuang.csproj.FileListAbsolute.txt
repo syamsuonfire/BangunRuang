@@ -1,0 +1,6 @@
+C:\Users\Syamsu Rijal Efendi\source\repos\BangunRuang\bin\Debug\BangunRuang.exe.config
+C:\Users\Syamsu Rijal Efendi\source\repos\BangunRuang\bin\Debug\BangunRuang.exe
+C:\Users\Syamsu Rijal Efendi\source\repos\BangunRuang\bin\Debug\BangunRuang.pdb
+C:\Users\Syamsu Rijal Efendi\source\repos\BangunRuang\obj\Debug\BangunRuang.csprojAssemblyReference.cache
+C:\Users\Syamsu Rijal Efendi\source\repos\BangunRuang\obj\Debug\BangunRuang.exe
+C:\Users\Syamsu Rijal Efendi\source\repos\BangunRuang\obj\Debug\BangunRuang.pdb
